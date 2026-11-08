@@ -4,7 +4,7 @@ A faithful HTML5 Canvas remake of the classic Flash game *Gold Miner*, rebuilt
 1:1 against the original SWF (715×520 stage, original art, sounds, timings and
 scene flow). Zero build step, zero dependencies — plain ES modules.
 
-**Play:** open [`game/`](game/) (the repository root redirects there).
+**Play online:** https://ecoreal.github.io/Gold_Miner_H5/ (GitHub Pages, served from `game/`) — or clone and open `index.html`.
 
 ## Run locally
 
